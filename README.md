@@ -1,0 +1,1 @@
+-- Talan mukodik minden :D
