@@ -1,0 +1,47 @@
+html,
+body {
+  height: 100%;
+}
+
+body{
+  background-image: url("images/luca-bravo-_XnDTTUuWSA-unsplash.jpg");
+}
+
+.form-signin {
+  max-width: 330px;
+  padding: 1rem;
+}
+
+.episodes {
+  display: flex;
+  flex-direction: row;
+  margin-top: .8rem;
+}
+
+.episode, input {
+  margin-bottom: .8rem;
+  padding: .8rem 1rem;
+  border-radius: 10px;
+  border: 0;
+  width: 100%;
+  background: #191414;
+  color: #fff;
+  cursor: pointer;
+}
+
+.episode:hover {
+  background: #1Db954;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+a:hover {
+  color: #1Db954;
+}
+
+table { 
+  opacity: 0%;
+}
